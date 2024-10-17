@@ -21,15 +21,15 @@ Hello, my name is Loh Kian Xing and `Roseshiyu` is my code-learning email. I am 
 - 📫 How to reach me: kx98123@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1kbxNhcF9LPIsVsn7qW_Ab9n4U50Akost/view)
 - 
-**Projects:**
-- E-bike renting platform -> [ebikeRTO](https://ebikerto.com/en-us)
-- Crypto trading platform -> [sure9](https://play.google.com/store/apps/details?id=com.crypto_apps.surex_flutter)
-- Customer data acquisition platform -> [Kood.Asia](https://www.kood.asia/)
+**Projects & Positions:**
+- E-bike renting platform -> Junior PHP developer -> [ebikeRTO](https://ebikerto.com/en-us)
+- Crypto trading platform -> Junior PHP developer -> [sure9](https://play.google.com/store/apps/details?id=com.crypto_apps.surex_flutter)
+- Customer data acquisition platform -> Junior full stack developer -> [Kood.Asia](https://www.kood.asia/)
 
 **Languages and Tools:** 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
