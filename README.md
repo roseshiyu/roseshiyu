@@ -1,5 +1,5 @@
 ## Hi there 👋， I am [Xing](https://github.com/roseshiyu)! 😁
-
+<!--
 **roseshiyu/roseshiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
+Hello, my name is Loh Kian Xing and `Roseshiyu` is my code-learning email.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseshiyu&layout=compact)
 
