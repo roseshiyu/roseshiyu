@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Loh Kian Xing and `Roseshiyu` is my code-learning email.
+Hello, my name is Loh Kian Xing and `Roseshiyu` is my code-learning email. I am a software developer with 3 years working experience. My technology stack involves PHP with Laravel, React.js and Node.js. Besides that, I like music, movie and game.
+
+- 🔭 I'm currently `unemployed`😔.
+- 🌱 I’m currently learning `Next.js` and building my self-project about my church website [KLC](https://klc-app.vercel.app/cn).
+- 📫 How to reach me: kx98123@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1kbxNhcF9LPIsVsn7qW_Ab9n4U50Akost/view)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseshiyu&layout=compact)
 
