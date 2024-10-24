@@ -30,6 +30,7 @@ Hello, my name is Loh Kian Xing and `Roseshiyu` is my code-learning email. I am 
 
 **Others:**
 - Kajang Life Chapel official website # nextjs tailwindcss -> [klc-app](https://klc-app.vercel.app/cn)
+- Leetcode profile -> [roseshiyu](https://leetcode.com/u/roseshiyu/)
 
 **Languages and Tools:** 
 
