@@ -28,6 +28,9 @@ Hello, my name is Loh Kian Xing and `Roseshiyu` is my code-learning email. I am 
 - Crypto trading platform # Junior PHP developer -> [sure9](https://play.google.com/store/apps/details?id=com.crypto_apps.surex_flutter)
 - Customer data acquisition platform # Junior full stack developer -> [Kood.Asia](https://www.kood.asia/)
 
+**Others:**
+- Kajang Life Chapel official website # nextjs tailwindcss -> [klc-app](https://klc-app.vercel.app/cn)
+
 **Languages and Tools:** 
 
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
